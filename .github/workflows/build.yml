@@ -14,5 +14,5 @@ jobs:
     - uses: EndBug/add-and-commit@v9
       with:
         default_author: github_actions
-        message: '🥔 Update Tatertot Static Site'
+        message: '🥔 Update Static Site'
 
