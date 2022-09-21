@@ -4,7 +4,7 @@
 <p align="center">
   <img src="./assets/logo.png" height="175px">
   <br>
-  <h1 align="center" >tatertot</h1>
+  <h1 align="center" >tatertot by BlueFalconHD</h1>
   <h3 align="center" >🎤 rickroll in style</h3>
 </p>
 
